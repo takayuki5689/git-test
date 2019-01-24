@@ -1,7 +1,7 @@
 package hello;
 
 /*
- * ver1.0 2019/01/24 TakayukiEguchi
+ * ver1.0 2019/01/24 Takayuki5689
  * 
  */
 
