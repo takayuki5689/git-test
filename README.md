@@ -1,12 +1,20 @@
-#見出し 
------------------------  
+# Windows10
 
-- 箇条書き1
-- 箇条書き2  
+## Markdown
+
+Install Typora. [https://typora.io/](https://typora.io/)
 
 
-|表 |1  |2  |
-|---|---|---|
-|0  |1  |2  |  
 
-<font color="Red">[takayuki5689](https://github.com/takayuki5689)</font>
+##  Spring Tool Suite
+
+1. Download Spring Tools 4 for Eclipse.[https://spring.io/tools](https://spring.io/tools)
+
+2. Choose Spring Starter Project to create a new Project
+
+3. Dowload and decompression joda-time-2.2.
+
+   [http://www.java2s.com/Code/Jar/j/Downloadjodatime22jar.htm](http://www.java2s.com/Code/Jar/j/Downloadjodatime22jar.htm)
+
+4. Select Add External JAR from the property of Project, Add External JAR joda-time-2.2.jar
+
