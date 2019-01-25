@@ -18,3 +18,6 @@ Install Typora. [https://typora.io/](https://typora.io/)
 
 4. Select Add External JAR from the property of Project, Add External JAR joda-time-2.2.jar.
 
+5. Make a package in the project.
+
+6. Clean build and choose Run As Spring boot app.
